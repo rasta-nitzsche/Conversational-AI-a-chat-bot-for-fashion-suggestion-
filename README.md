@@ -9,7 +9,7 @@ Answer : Yes it's a great combination / No this does not match
 ## Global Architecture:
 ![alt text](https://github.com/rasta-nitzsche/Topic-Labeling-with-Ukparl-Dataset/blob/main/Conv%20AI%20Architecture.JPG)
 
-This architecture represents the attribute extraction from the query. First when we have a query, we check that it is a question, if not it is rejected. We do a semantic check to make sure that the sentence is correct :  for example the following query will be rejected in this phase: Can I have launch with a blue jean ? Once all the steps above are validated, we extract all the entities from the query, and we check if it is a fashion item using the model developed before. The results of this step are the attributes we are going to search in the occurrence matrix.
+This architecture represents the attribute extraction from the query. First when we have a query, we check that it is a question, if not it is rejected. We do a semantic check to make sure that the sentence is correct :  for example the following query will be rejected in this phase: Can I have launch with a blue jean ? Once all the steps above are validated, we extract all the entities from the query, and we check if it is a fashion item using the model developed before. The results of this step are the attributes (features) we are going to search in the occurrence matrix.
 
 ## VinVL:
 <br />
