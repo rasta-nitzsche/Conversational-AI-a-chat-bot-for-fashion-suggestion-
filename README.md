@@ -1,7 +1,7 @@
 # Conversational-ai
 
 ## Goal:
-In this project, the main goal is to be able to give suggestions of items to a user through an automated process, which is Answering questions based on information from images. The domain worked on was fashion, but the conception must take into consideration an easy switch between domains.<br />
+The main goal of this project is to be able to give suggestions of items to a user through an automated process, which is Answering questions based on information from images. The domain worked on was fashion, but the conception must take into consideration an easy switch between domains.<br />
 Example : Would blue jeans match with my yellow shirt ?<br />
 Answer : Yes it's a great combination / No this does not match
 
